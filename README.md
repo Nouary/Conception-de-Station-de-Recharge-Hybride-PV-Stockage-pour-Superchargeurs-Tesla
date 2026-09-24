@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/BESS%20Stockage-400%20kWh%20%7C%20200%20kW-green?style=for-the-badge&logo=battery" alt="BESS" />
   <img src="https://img.shields.io/badge/Payback-3.1%20Ans-brightgreen?style=for-the-badge&logo=cash" alt="Payback" />
   <img src="https://img.shields.io/badge/EMS-Huawei%20SmartLogger%203000A-red?style=for-the-badge" alt="EMS" />
+  <img src="https://img.shields.io/badge/Licence-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="License" />
 </p>
 
 ---
@@ -168,6 +169,7 @@ Les simulations de performance ont été exécutées avec le logiciel **SAM (NRE
 
 ```plaintext
 ├── .gitattributes                                       # Configuration Git LFS (fichiers .skp et .skb)
+├── LICENSE                                              # Licence Open-Source MIT
 ├── README.md                                            # Documentation générale du projet
 ├── Project Summary.pdf                                  # Synthèse technique et exécutive du projet
 ├── PV_project.pdf                                       # Rapport d'ingénierie complet détaillé (29 pages)
@@ -227,3 +229,9 @@ Projet d'ingénierie réalisé au sein de :
 
 **Sous l'encadrement de :**
 * **M. CHAIBI Yassine**
+
+---
+
+## 📄 Licence
+
+Ce projet est sous licence libre et open-source **[MIT](LICENSE)**. Vous êtes libre de consulter, utiliser, adapter et vous inspirer de ces travaux pour vos projets académiques et industriels, sous réserve de mentionner les auteurs originaux.
